@@ -1,0 +1,19 @@
+{
+  "name": "coronaTrac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "express-handler": "^0.2.0",
+    "nodemon": "^2.0.6",
+    "novelcovid": "^3.0.0"
+  }
+}
